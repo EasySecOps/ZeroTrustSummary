@@ -18,6 +18,6 @@ If you are after a summarised version of deployment guidelines, I created a one-
 * Infra
 * Network
 
-Markup : ![Zero Trust Summary](https://photos.app.goo.gl/wPdT3doqZg2KdfKp7)
+![Zero Trust Summary](https://photos.app.goo.gl/wPdT3doqZg2KdfKp7)
 
 Please free to download the pdf here and leave comments, suggestion or feedback. Also, [hit me up on LinkedIn](https://www.linkedin.com/in/vikver/) for a chat if you are interested.
