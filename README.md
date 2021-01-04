@@ -21,6 +21,8 @@ If you are after a summarised version of deployment guidelines, I created a one-
 * Infra
 * Network
 
-Please free to [download the pdf](https://github.com/EasySecOps/ZeroTrustSummary/raw/main/MS%20Zero%20Trust%20Summary.pdf) and leave comments, suggestion or feedback. Also, [hit me up on LinkedIn](https://www.linkedin.com/in/vikver/) for a chat if you are interested.
+
+Please [download the pdf](https://github.com/EasySecOps/ZeroTrustSummary/raw/main/MS%20Zero%20Trust%20Summary.pdf) and leave comments, suggestion or feedback in discussion board. Also, [hit me up on LinkedIn](https://www.linkedin.com/in/vikver/) for a chat if you are interested.
+
 
 ![Zero Trust Summary](https://github.com/EasySecOps/ZeroTrustSummary/blob/main/Zero%20Trust%20Summary.png?raw=true)
